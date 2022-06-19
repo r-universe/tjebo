@@ -1,0 +1,10 @@
+[
+  {
+    "package": "eye",
+    "oncran": true
+  },
+  {
+    "package": "eyedata",
+    "oncran": true
+  }
+]
